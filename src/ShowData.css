@@ -1,0 +1,19 @@
+.card{
+    background-color: #00BFFF;
+    color: #ffffff;
+    padding: 15px;
+    margin: 0;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+button{
+    background-color: blue;
+    border-radius: 5px;
+    border-width: 0;
+    color: #ffffff;
+    height: 30px;
+    width: 70px;
+    margin-top: 20px;
+}
+
